@@ -8,4 +8,4 @@ I work as a machine learning engineer and data scientist. I'm eager about learni
 
 ##### Where can you find me
 
-[![linkedin](https://github.com/FerrariDG/FerrariDG/raw/master/icons/linkedin-30x30.png)](https://www.linkedin.com/in/ferraridg) [![twitter](https://github.com/FerrariDG/FerrariDG/raw/master/icons/twitter-30x30.png)](https://twitter.com/FerrariDG77) [![dspt slack](https://github.com/FerrariDG/FerrariDG/raw/master/icons/dspt-42x32.png)](http://bit.ly/DSPTInviteSlack)
+[![linkedin](https://github.com/FerrariDG/FerrariDG/raw/master/icons/linkedin-30x30.png)](https://www.linkedin.com/in/ferraridg) [![twitter](https://github.com/FerrariDG/FerrariDG/raw/master/icons/twitter-30x30.png)](https://twitter.com/FerrariDG77)
