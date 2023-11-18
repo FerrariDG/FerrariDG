@@ -2,7 +2,11 @@
 
 I work as a machine learning engineer. I'm eager to learn, enjoy sharing and debating, and I'm always ready to cooperate. I have an enthusiasm for mentoring and helping people grow in their careers.
 
-##### Somethings that I work with
+## DLite
+
+A group of friends came together to share ideas and build tools. So, we created [DLite](https://github.com/dlite-tools/).
+
+## Tech that I work with
 
 ![python](https://github.com/FerrariDG/FerrariDG/raw/master/icons/python-40x40.png) 
 ![docker](https://github.com/FerrariDG/FerrariDG/raw/master/icons/docker-60x40.png) 
@@ -11,6 +15,6 @@ I work as a machine learning engineer. I'm eager to learn, enjoy sharing and deb
 ![postgresql](https://github.com/FerrariDG/FerrariDG/raw/master/icons/pg-40x40.png) 
 ![aws](https://github.com/FerrariDG/FerrariDG/raw/master/icons/aws-60x40.png)
 
-##### Where can you find me
+## Where can you find me
 
 [![linkedin](https://github.com/FerrariDG/FerrariDG/raw/master/icons/linkedin-30x30.png)](https://www.linkedin.com/in/ferraridg)
